@@ -38,6 +38,8 @@ jobs:
       # 更新仓库
       - name: commit and push
         run: |
+          git config --global user.email "1170516014@qq.com"
+          git config --gloabl user.name "y0lo-0924"
           git add .
           git commit -m "update"
           git push
