@@ -38,6 +38,6 @@ jobs:
       # 更新仓库
       - name: commit and push
         run: |
-        git add .
-        git commit -m "update"
-        git push
+          git add .
+          git commit -m "update"
+          git push
