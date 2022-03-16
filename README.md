@@ -4,6 +4,8 @@
 <td>
 
 ## 我的hexo文章
+- [java基础](http://y0lo-0924.github.io/2022/03/13/java基础/)
+- [从零开始内网渗透学习](http://y0lo-0924.github.io/2022/03/09/从零开始内网渗透学习/)
 - [Tomcat 内存马(一)：Filter型](http://y0lo-0924.github.io/2022/03/08/java内存马01/)
 - [IDEA启动Tomcat9.0.x](http://y0lo-0924.github.io/2022/03/07/IDEA启动tomcat9.0.x/)
 - [Windows内网之kerberos](http://y0lo-0924.github.io/2022/03/04/Windows内网之kerberos/)
